@@ -5,6 +5,9 @@ es:
       category:
         one: Categoría
         others: Categorías
+      task:
+        one: Tarea
+        others: Tareas
   categories:
     form:
       descripcion: Descripción
@@ -13,3 +16,11 @@ es:
   common:
     back: Atrás
   hello: Hello world
+  tasks:
+    form:
+      category: Categoria
+      description: Descripcion
+      due_date: Fecha de vencimiento
+      name: Nombre
+    list: Lista de Tareas
+    new_task: Nueva Tarea
