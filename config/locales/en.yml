@@ -17,6 +17,8 @@ en:
     back: Atrás
   hello: Hello world
   tasks:
+    errors:
+      invalidate_due_date: Invalidate due date
     form:
       category: Category
       description: Description

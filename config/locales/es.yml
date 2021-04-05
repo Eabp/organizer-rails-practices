@@ -17,6 +17,8 @@ es:
     back: Atrás
   hello: Hello world
   tasks:
+    errors:
+      invalidate_due_date: La fecha es invalida
     form:
       category: Categoria
       description: Descripcion
