@@ -8,6 +8,8 @@ es:
       task:
         one: Tarea
         others: Tareas
+  app:
+    logout: Cerrar sesion
   categories:
     form:
       descripcion: Descripción
