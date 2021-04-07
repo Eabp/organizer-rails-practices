@@ -21,6 +21,13 @@ en:
     destroy: Destroy
     edit: Edit
     show: Show
+  devise:
+    failure:
+      user:
+        unauthenticated: Hasta luego
+    sessions:
+      user:
+        signed_in: Bienvenido al organizador
   hello: Hello world
   tasks:
     errors:
